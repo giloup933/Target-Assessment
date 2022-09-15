@@ -1,6 +1,8 @@
 # Target-Assessment
 Barren Land Analysis
 
+<img src="barren-land.jpg" height="450" width="450">
+
 To run the application, simply insert the command python farm.py </br>
 Python3 is installed on most machine nowadays, if for some reason it isn't the case: https://www.python.org/downloads/ </br>
 Testing: If presented with the interactive query, that means the tests passed. Before this menu is presented, there are four assertions representing the two given test cases and two additional ones. </br>
